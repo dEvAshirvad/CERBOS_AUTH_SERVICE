@@ -4,3 +4,4 @@ node_modules
 redis_data
 logs
 .env
+package-lock.json
